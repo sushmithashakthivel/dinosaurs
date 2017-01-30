@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+import Header from "./Header.js";
 import {Grid, Row, Col} from "react-bootstrap";
 
 class Home extends Component {
@@ -6,7 +7,10 @@ class Home extends Component {
     return (
       <Grid fluid>
         <Row>
-          <Col xs={12}>
+          <Col md={3} sm={4} xs={12}>
+            <Header />
+          </Col>
+          <Col md={9} sm={8} xs={12}>
             {this.props.children}
           </Col>
         </Row>
