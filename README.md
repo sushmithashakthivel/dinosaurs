@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sushmithashakthivel/dinosaurs">
-    <img width="438" alt="Dinosaurs
+    <img width="438" alt="Dinosaurs"
       src="./HomePage.png">
   </a>
 </p>
@@ -10,7 +10,7 @@ ___
 <p align="center">Dinosaur Detail</p>
 <p align="center">
   <a href="https://github.com/sushmithashakthivel/dinosaurs">
-    <img width="438" alt="Dinosaurs
+    <img width="438" alt="Dinosaurs Detail"
       src="./DinosaurDetail.png">
   </a>
 </p>
